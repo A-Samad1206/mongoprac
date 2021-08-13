@@ -1,0 +1,11 @@
+###
+GET http://localhost:6000/minmax
+
+###
+POST http://localhost:6000/api/v1/bootcamps
+
+###
+DELETE http://localhost:6000/api/v1/bootcamps/4454
+
+### 
+PUT http://localhost:6000/api/v1/bootcamps/3545
