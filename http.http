@@ -1,18 +1,5 @@
 ###
-GET http://localhost:6000/minmax
-
-###
-GET http://localhost:6000/valid  
-
+GET http://localhost:6000/one
 ###
 GET http://localhost:6000/list
-
-###
-POST http://localhost:6000/api/v1/bootcamps
-
-###
-DELETE http://localhost:6000/api/v1/bootcamps/4454
-
-### 
-PUT http://localhost:6000/api/v1/bootcamps/3545
  

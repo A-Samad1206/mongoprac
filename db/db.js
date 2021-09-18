@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoPath = `mongodb://localhost:27017/practice`;
+const mongoPath = `mongodb://localhost:27017/mongoprac`;
 
 module.exports = async () => {
   await mongoose.connect(mongoPath, {

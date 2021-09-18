@@ -1,0 +1,21 @@
+Middleware are also called pre post hooks
+Types of Mongoose MiddleWare
+1.)Document MiddleWare 
+   Fn supported by DM
+   -  Init
+   -  Validate
+   -  Save
+   -  Remove
+2.)Query MiddleWare
+   Fn supported by QM
+   -  count
+   -  find
+   -  findOne
+   -  findOneAndRemove
+   -  findOneAndUpdate
+   -  insertMany
+   -  update
+3.)Model Types
+4.)Aggregation Type
+Pre & Post Hooks
+1.) Serial Hooks 2.) Parallel
